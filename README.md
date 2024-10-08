@@ -3,6 +3,8 @@
 
 X3-DNS is a robust and user-friendly DNS vulnerability assessment tool designed to help users identify and mitigate potential security risks in their domain's DNS configuration. This tool performs comprehensive checks for common DNS vulnerabilities, including SPF, DKIM, DMARC, DNSSEC, MX, and CAA records, providing detailed results and actionable recommendations to enhance DNS security.
 
+![X3 Tools Logo](banner.png)
+
 ## Features
 
 - **SPF Record Validation**: Ensures the presence and correctness of SPF records to prevent email spoofing.
